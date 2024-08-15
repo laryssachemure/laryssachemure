@@ -1,0 +1,94 @@
+body{
+    color: black;
+    background-color: whitesmoke;
+}
+
+img{
+    width: 300px;
+    height: 200px;
+    border: 5px solid black;
+}   
+
+.bloco1{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem1{
+    padding: 50px 0px 0px 0px;
+}
+
+.texto1{
+    padding: 0px 0px 0px 50px;
+}
+
+.bloco2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    word-break: keep-all;
+}
+
+.imagem2{
+    padding: 50px 0px 0px 0px;
+    word-break: normal;
+}
+
+.texto2{
+    padding: 0px 50px 0px 0px;
+}
+
+.bloco3{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem3{
+    padding: 50px 0px 0px 0px;
+}
+
+.texto3{
+    padding: 0px 0px 0px 50px;
+}
+
+.bloco4{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    word-break: keep-all;
+}
+
+.imagem4{
+    padding: 50px 0px 0px 0px;
+    word-break: normal;
+}
+
+.texto4{
+    padding: 0px 50px 0px 0px;
+}
+
+.bloco5{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem5{
+    padding: 50px 0px 0px 0px;
+}
+
+.texto5{
+    padding: 0px 0px 0px 50px;
+}
